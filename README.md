@@ -21,4 +21,14 @@ En el año 2032 seremos una empresa reconocida a nivel internacional con un mejo
 ### Nombre empresarial
 Integrity Tech Solutions S.A.S
 ### Nombre comercial
-Integrity Tech Solutions
+Integrity Tech Solutions 
+---
+## Logo Empresarial 
+<img width="1408" height="768" alt="Gemini_Generated_Image_joxbqfjoxbqfjoxb" src="https://github.com/user-attachments/assets/9a77c1fe-d0dd-477e-9832-5b5d9912c324" /> 
+
+## Logo comercial
+<img width="1408" height="768" alt="Gemini_Generated_Image_ba16bcba16bcba16" src="https://github.com/user-attachments/assets/1efee67b-2171-4358-bf28-68a1810b8673" /> 
+
+
+
+
